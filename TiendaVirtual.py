@@ -1,8 +1,3 @@
-"""
-Laboratorio 02: Tienda Virtual con Python (OOP)
-Alumna: Joanna Carrión Pérez -  X202431078 
-"""
-
 from datetime import datetime
 
 class Producto:
